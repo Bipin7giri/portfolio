@@ -70,7 +70,7 @@ const Home = () => {
           I'm thrilled to connect with fellow developers and tech enthusiasts.
           Reach out to me on
           <a
-            href="https://www.linkedin.com/in/bipin-giri"
+            href="https://www.linkedin.com/in/bipin-giri-8005b2267/"
             className="text-blue-600 underline"
           >
             {" "}
